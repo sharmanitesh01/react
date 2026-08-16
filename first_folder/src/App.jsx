@@ -2,9 +2,13 @@ import React from 'react'
 
 const App = () => {
   return (
-    <div id="parent">
-      <h2 id="Child1">Hello</h2>
-      <h3 id="Child2">Hello 2</h3>
+    <div>
+      <h1>hello vite basics </h1>
+
+
+
+      <p>this is my trial </p>
+
     </div>
   )
 }
